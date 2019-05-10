@@ -1,18 +1,7 @@
-Iquidus Explorer - 1.6.1
+ZOOW Explorer - 1.6.1
 ================
 
 An open source block explorer written in node.js.
-
-### See it in action
-
-*  [Deutsche eMark](http://b.emark.tk/)
-*  [Sphere](http://sphere.iquidus.io)
-*  [Vertcoin](http://explorer.vertcoin.info/)
-*  [Vivo](http://vivo.explorerz.top:3003)
-*  [Florincoin](https://florincoin.info/info)
-*  [Maxcoin Explorer 1](https://explorer.maxcoinproject.net/)
-*  [Maxcoin Explorer 2](https://explorer2.maxcoinproject.net/)
-
 
 *note: If you would like your instance mentioned here contact me*
 
@@ -42,7 +31,7 @@ Create user with read/write access:
 
 ### Get the source
 
-    git clone https://github.com/iquidus/explorer explorer
+    git clone https://github.com/zoowcoin/explorer explorer
 
 ### Install node modules
 
